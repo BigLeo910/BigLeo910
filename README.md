@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Python and Java.
-- 🤔 I’m looking for help with learning to code and make an AI.
+- 🤔 I’m looking for help with learning to code and making an AI.
 
 <!--
 **BigLeo910/BigLeo910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
